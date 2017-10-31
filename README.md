@@ -1,4 +1,4 @@
-# Paul-trap-cartoon
+# Paul trap
 Animation of the oscillating electric potential of a Paul trap as a 3D surface plot.
 
 Requires: python 3.6, Jupyter, numpy, matplotlib, ffmpeg
